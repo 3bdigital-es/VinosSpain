@@ -1,2 +1,2 @@
 # VinosSpain
-Android list view conteniendo las denominaciones de origen del vino español
+Uso muy bsico del Android list_view, conteniendo las denominaciones de origen del vino español
